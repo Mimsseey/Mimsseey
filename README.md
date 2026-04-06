@@ -6,6 +6,7 @@ I work with microcontrollers (ESP32, Arduino MKR, ARM Cortex-M), wireless securi
 🐍 Python Tooling — CLI tools, API wrappers, web scrapers, and local AI interfaces with Ollama
 
 🤔 Featured Projects & also I’m looking for help with ...
+
 ESP32-Deauther
 IEEE 802.11 deauthentication tool for ESP32 with a web-based control interface. Revived and refactored from an abandoned project — added modular code structure, annotated 802.11 frame definitions, configurable hardware settings, and improved debugging output.
 C++ ESP32 Arduino WiFi Security 802.11
