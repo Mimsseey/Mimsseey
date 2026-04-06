@@ -1,8 +1,12 @@
 ## Hi there 👋
 I work with microcontrollers (ESP32, Arduino MKR, ARM Cortex-M), wireless security tooling, and sensor-to-cloud pipelines. Most of my projects involve getting hardware to do things it wasn't originally designed to do.
+
    🔭 I’m currently working on ...
+   
 🔧 Embedded & IoT — firmware development, sensor integration, real-time communication protocols (WiFi, NTP, MQTT), and cloud telemetry (Azure Event Hub)
+
 🔐 Wireless Security — 802.11 protocol analysis, deauthentication attack tooling, promiscuous mode packet sniffing, raw frame injection on ESP32
+
 🐍 Python Tooling — CLI tools, API wrappers, web scrapers, and local AI interfaces with Ollama
 
 🤔 Featured Projects & also I’m looking for help with ...
